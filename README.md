@@ -1,7 +1,7 @@
 <p align="center">
     <img width=150px height="150px" align="center" src="./img/logo.png">
     <h2 align="center">GitHub use</h2>
-    <h3 align="center">How to use GitHub for the first time</h3>
+    <h4 align="center">How to use GitHub for the first time</h4>
 </p>
 
 <hr>
