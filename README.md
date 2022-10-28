@@ -33,7 +33,7 @@
 
 ### Translations
 
-<kbd>[<img title="Española" alt="Español" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">]()</kbd>
+<kbd>[<img title="Español" alt="Español" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">]()</kbd>
 
 <p align="right">(<a href="#top">go up</a>)</p>
 
