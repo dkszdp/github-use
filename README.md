@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 <p align="center">
     <img width=150px height="150px" align="center" src="./img/logo.png">
     <h2 align="center">GitHub use</h2>
@@ -16,3 +18,19 @@
 
 <hr>
 
+<details>
+  <summary>Contents</summary>
+  <ol>
+    <li><a href="#Explicaciones básicas">Translations</a></li>
+  </ol>
+</details>
+
+<hr>
+
+<a name="comandos1"></a>
+
+### Translations
+
+<kbd>[<img title="Española" alt="Española" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">]()</kbd>
+
+<p align="right">(<a href="#top">go up</a>)</p>
