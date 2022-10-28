@@ -21,13 +21,13 @@
 <details>
   <summary>Contents</summary>
   <ol>
-    <li><a href="#Explicaciones básicas">Translations</a></li>
+    <li><a href="#translations">Translations</a></li>
   </ol>
 </details>
 
 <hr>
 
-<a name="comandos1"></a>
+<a name="translations"></a>
 
 ### Translations
 
